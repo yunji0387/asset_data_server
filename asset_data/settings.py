@@ -68,7 +68,7 @@ ROOT_URLCONF = 'asset_data.urls'
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  # Next.js local development server
-    'https://your-nextjs-domain.com',  # Production domain for Next.js
+    'https://asset-data-app.vercel.app/',  # Production domain for Next.js
 ]
 
 TEMPLATES = [
