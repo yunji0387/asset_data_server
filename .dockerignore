@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django stuff:
+*.log
+*.pot
+*.sqlite3
+db.sqlite3
+
+# Environments
+.env
+.env.*
+venv/
+ENV/
+env/
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Node modules (if using frontend)
+node_modules/
+
+# Static and media files (if collected/generated)
+staticfiles/
+static/
+media/
